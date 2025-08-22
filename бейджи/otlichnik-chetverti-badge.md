@@ -7,7 +7,7 @@ description: "Бейдж за отличные оценки по всем пре
 # Бейдж "Отличник четверти"
 
 ## Визуальное представление
-![Отличник четверти](../assets/images/badges/otlichnik-chetverti.png)
+![Отличник четверти](../assets/images/badges/otlichnik-chetverti-badge.png)
 
 ## Основная информация
 
